@@ -12,6 +12,9 @@ P: The poles of the rational function. It is a column vector containing the comp
 
 K: The direct term or polynomial term of the partial fraction expansion. It is a scalar representing the constant value or polynomial term in the partial fraction expansion.
 
+num : stands for "numerator" = ตัวเศษ
+
+den : stands for "denumerator" = ตัวส่วน
 
 
 **EX1**
