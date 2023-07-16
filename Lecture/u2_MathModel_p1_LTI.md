@@ -80,4 +80,5 @@ In control systems analysis, **the unit ramp** function, denoted as "r(t)" or "u
 
 
 
+<img width="447" alt="image" src="https://github.com/PeerawatAltoTechCourse/Linear-Control/assets/132571902/ff1ae812-ee98-4bab-b4a0-eb280040a9a2">
 
